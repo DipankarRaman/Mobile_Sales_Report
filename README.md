@@ -88,27 +88,29 @@ Developed custom measures to enhance the analysis, including:
     - Table chart: Brand, total sales, and transactions.
 
 ## 2. MTD Report
--**Filters**: Same as the main dashboard.
 
--**Visuals**:
+- **Filters**: Same as the main dashboard.
 
-Line chart: Month-to-date (MTD) sales analysis by year, quarter, month, and day.
-Cards: Same metrics as the main dashboard.
-3. Same Period Last Year
-Filters: Same as the main dashboard.
-Visuals:
-Cards showing total sales, total quantity, transactions, and average price.
-Table chart: Year, quarter, total sales, and same period last year.
-Column charts: Sales by year, month, and quarter for comparison with the previous year.
-Guidance and Credits
+- **Visuals**:
+    - Line chart: Month-to-date (MTD) sales analysis by year, quarter, month, and day.
+    - Cards: Same metrics as the main dashboard.
+
+## 3. Same Period Last Year
+- **Filters**: Same as the main dashboard.
+- **Visuals**:
+   - Cards showing total sales, total quantity, transactions, and average price.
+   - Table chart: Year, quarter, total sales, and same period last year.
+   - Column charts: Sales by year, month, and quarter for comparison with the previous year.
+
+## Guidance and Credits
 Special thanks to Satish Dhawale for guidance and mentorship throughout this project.
 
-Screenshots
+## Screenshots
 Here are some screenshots of the dashboard:
 
 Dashboard Screenshot MTD Report Screenshot Same Period Last Year Screenshot
 
-Usage
-Open the .pbix file in Power BI Desktop.
-Use the filters and slicers to explore the data.
-Analyze key metrics and compare trends across different pages.
+## Usage
+1.Open the .pbix file in Power BI Desktop.
+2.Use the filters and slicers to explore the data.
+3.Analyze key metrics and compare trends across different pages.
