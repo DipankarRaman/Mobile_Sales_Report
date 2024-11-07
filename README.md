@@ -5,15 +5,16 @@ This project showcases an interactive dashboard built in Power BI, designed for 
 
 # Mobile Sales Analysis Dashboard
 ## Table of Contents
-- Project Overview
-- ETL Process
-- Key Features
-- Technologies Used
-- DAX Measures
-- Dashboard Pages
-- Guidance and Credits
-- Screenshots
-- Usage
+- [Project Overview](#project-overview)
+- [ETL Process](#etl-process)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [DAX Measures](#dax-measures)
+- [Dashboard Pages](#dashboard-pages)
+- [Guidance and Credits](#guidance-and-credits)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+
  
 ## Project Overview
 This project showcases an interactive Power BI dashboard designed to provide comprehensive insights into mobile sales data. The dashboard helps users identify trends, track sales performance, and derive actionable insights to support business decisions.
