@@ -60,10 +60,14 @@ Developed custom measures to enhance the analysis, including:
 
 - **COUNTROWS()**: Count the number of transactions in the sales data.
 
--**AVERAGE()**: Calculate the average order value.
--**TOTALMTD()**: Calculate the month-to-date total sales.
--**SAMEPERIODLASTYEAR()**: Compare current sales metrics with the same period in the previous year.
--**CALCULATE()**: Apply filters to modify the context of calculations for deeper insights.
+- **AVERAGE()**: Calculate the average order value.
+ 
+- **TOTALMTD()**: Calculate the month-to-date total sales.
+ 
+- **SAMEPERIODLASTYEAR()**: Compare current sales metrics with the same period in the previous year.
+ 
+- **CALCULATE()**: Apply filters to modify the context of calculations for deeper insights.
+ 
 - Created **a custom calendar table** for time-based analysis of sales trends.
 Dashboard Pages
 1. Dashboard
