@@ -108,8 +108,9 @@ Special thanks to Satish Dhawale for guidance and mentorship throughout this pro
 
 ## Screenshots
 Here are some screenshots of the dashboard:
-
-Dashboard Screenshot MTD Report Screenshot Same Period Last Year Screenshot
+![Dashboard Screenshot](https://github.com/DipankarRaman/Mobile_Sales_Report/blob/main/Dashboard%20Page.png)
+![MTD Report Screenshot](https://github.com/DipankarRaman/Mobile_Sales_Report/blob/main/MTD%20Report%20Page.png)
+![Same Period Last Year Screenshot](https://github.com/DipankarRaman/Mobile_Sales_Report/blob/main/Same%20Period%20Last%20Year%20Page.png)
 
 ## Usage
 1.Open the .pbix file in Power BI Desktop.
