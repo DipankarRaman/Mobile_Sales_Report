@@ -73,19 +73,25 @@ Developed custom measures to enhance the analysis, including:
 ## Dashboard Pages
 
 **1. Dashboard**
+
 -**Filters**: Mobile brand, mobile model, payment method, month.
+
 -**Visuals**:
-Cards showing total sales, total quantity, transactions, and average price.
-Map: Total sales by city.
-Line chart: Total quantity by month.
-Funnel chart: Customer ratings.
-Pie chart: Transactions by payment method.
-Bar chart: Top 3 total sales by mobile model.
-Area chart: Total sales by day name.
-Table chart: Brand, total sales, and transactions.
-2. MTD Report
-Filters: Same as the main dashboard.
-Visuals:
+
+    - Cards showing total sales, total quantity, transactions, and average price.
+    - Map: Total sales by city.
+    - Line chart: Total quantity by month.
+    - Funnel chart: Customer ratings.
+    - Pie chart: Transactions by payment method.
+    - Bar chart: Top 3 total sales by mobile model.
+    - Area chart: Total sales by day name.
+    - Table chart: Brand, total sales, and transactions.
+
+## 2. MTD Report
+-**Filters**: Same as the main dashboard.
+
+-**Visuals**:
+
 Line chart: Month-to-date (MTD) sales analysis by year, quarter, month, and day.
 Cards: Same metrics as the main dashboard.
 3. Same Period Last Year
