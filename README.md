@@ -74,9 +74,9 @@ Developed custom measures to enhance the analysis, including:
 
 **1. Dashboard**
 
--**Filters**: Mobile brand, mobile model, payment method, month.
+- **Filters**: Mobile brand, mobile model, payment method, month.
 
--**Visuals**:
+- **Visuals**:
 
     - Cards showing total sales, total quantity, transactions, and average price.
     - Map: Total sales by city.
