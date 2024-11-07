@@ -14,16 +14,18 @@ This project showcases an interactive dashboard built in Power BI, designed for 
 - Guidance and Credits
 - Screenshots
 - Usage
-- 
+ 
 ## Project Overview
 This project showcases an interactive Power BI dashboard designed to provide comprehensive insights into mobile sales data. The dashboard helps users identify trends, track sales performance, and derive actionable insights to support business decisions.
 
 ## ETL Process
 **1.Data Import**: Imported raw sales data from an Excel file.
+
 **2.Data Cleaning and Transformation**:
 - Merged and split columns.
 - Removed unnecessary rows and replaced specific values.
 - Changed data types for consistency and analysis readiness.
+ 
 **3.Data Modeling**:
 - Established one-to-many and many-to-one relationships to ensure accurate data connections.
 
