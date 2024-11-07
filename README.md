@@ -33,7 +33,7 @@ This project showcases an interactive Power BI dashboard designed to provide com
 
 - **Visuals Created**:
    - &nbsp;Column, bar, line, area, funnel, and map charts.
-   - ◯ Table and pie charts for detailed breakdowns.
+   -  Table and pie charts for detailed breakdowns.
   
 - **Filters and Interactions**:
    - &nbsp; Used drop-down slicers to filter data by mobile brand, model, payment method, and month.
