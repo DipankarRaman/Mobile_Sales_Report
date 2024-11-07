@@ -69,10 +69,12 @@ Developed custom measures to enhance the analysis, including:
 - **CALCULATE()**: Apply filters to modify the context of calculations for deeper insights.
  
 - Created **a custom calendar table** for time-based analysis of sales trends.
-Dashboard Pages
-1. Dashboard
-Filters: Mobile brand, mobile model, payment method, month.
-Visuals:
+ 
+## Dashboard Pages
+
+**1. Dashboard**
+-**Filters**: Mobile brand, mobile model, payment method, month.
+-**Visuals**:
 Cards showing total sales, total quantity, transactions, and average price.
 Map: Total sales by city.
 Line chart: Total quantity by month.
