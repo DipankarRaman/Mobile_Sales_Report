@@ -46,7 +46,9 @@ This project showcases an interactive Power BI dashboard designed to provide com
 ## Technologies Used
 
 **- Power BI Desktop**
+
 **- Power Query**
+
 **- DAX (Data Analysis Expressions)**
  
 ## DAX Measures
