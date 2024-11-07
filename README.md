@@ -32,16 +32,16 @@ This project showcases an interactive Power BI dashboard designed to provide com
 ## Key Features
 
 - **Visuals Created**:
- - &nbsp;Column, bar, line, area, funnel, and map charts.
- - &nbsp; Table and pie charts for detailed breakdowns.
+   - &nbsp;Column, bar, line, area, funnel, and map charts.
+   - ◯ Table and pie charts for detailed breakdowns.
   
 - **Filters and Interactions**:
- - &nbsp; Used drop-down slicers to filter data by mobile brand, model, payment method, and month.
- - &nbsp; Configured visual interactions using the Edit Interaction tool.
+   - &nbsp; Used drop-down slicers to filter data by mobile brand, model, payment method, and month.
+   - &nbsp; Configured visual interactions using the Edit Interaction tool.
   
 - **User Experience Enhancements**:
- - &nbsp; Added cards displaying key metrics: total sales, total quantity, transactions, and average price.
- - &nbsp; Incorporated a page navigator for seamless navigation between dashboard pages.
+   - &nbsp; Added cards displaying key metrics: total sales, total quantity, transactions, and average price.
+   - &nbsp; Incorporated a page navigator for seamless navigation between dashboard pages.
   
 ## Technologies Used
 
