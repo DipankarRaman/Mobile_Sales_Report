@@ -112,5 +112,7 @@ Dashboard Screenshot MTD Report Screenshot Same Period Last Year Screenshot
 
 ## Usage
 1.Open the .pbix file in Power BI Desktop.
+
 2.Use the filters and slicers to explore the data.
+
 3.Analyze key metrics and compare trends across different pages.
