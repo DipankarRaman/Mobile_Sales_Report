@@ -54,14 +54,17 @@ This project showcases an interactive Power BI dashboard designed to provide com
 ## DAX Measures
 Developed custom measures to enhance the analysis, including:
 
-SUM(): Aggregate total sales from the online store.
-SUMX(): Iterate and sum over a table to calculate sales performance.
-COUNTROWS(): Count the number of transactions in the sales data.
-AVERAGE(): Calculate the average order value.
-TOTALMTD(): Calculate the month-to-date total sales.
-SAMEPERIODLASTYEAR(): Compare current sales metrics with the same period in the previous year.
-CALCULATE(): Apply filters to modify the context of calculations for deeper insights.
-Created a custom calendar table for time-based analysis of sales trends.
+- **SUM()**: Aggregate total sales from the online store.
+
+- **SUMX()**: Iterate and sum over a table to calculate sales performance.
+
+- **COUNTROWS()**: Count the number of transactions in the sales data.
+
+-**AVERAGE()**: Calculate the average order value.
+-**TOTALMTD()**: Calculate the month-to-date total sales.
+-**SAMEPERIODLASTYEAR()**: Compare current sales metrics with the same period in the previous year.
+-**CALCULATE()**: Apply filters to modify the context of calculations for deeper insights.
+- Created **a custom calendar table** for time-based analysis of sales trends.
 Dashboard Pages
 1. Dashboard
 Filters: Mobile brand, mobile model, payment method, month.
